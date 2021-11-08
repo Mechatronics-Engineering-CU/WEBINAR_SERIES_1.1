@@ -1,17 +1,15 @@
 # :wave: CALL FOR SPEAKERS 
 
-## 🤓 WEBSERIES ON Trends in Mechatronics  amd IOT enabling world of Artificial Intelligence
+## 🤓 WEBINAR SERIES ON Trends in Mechatronics  amd IOT enabling world of Artificial Intelligence
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to create awareness about recent trends that demands the mechatronics and IOT engineers to deploy Artifitially Intelligent model.🚀
+
+Technology is in an evolving state and the concept the Internet of Things which is all about interconnection of machines and devices to network through sensors, network, communication protocols, analytics and specific softwares is trying to work its was to mechatronics. This is a relatively new concept though engineering in mechatronics existed for more than half a century.
+
+With increasing number of smart devices, industries are wiring themselves to an upgraded version of Mechtaronics in order  to being about an ease to mechanical processes and systems.
+
+The focus of this series is **to counter the rumors** across the world that **Internet of Things** is compelling **mechatronics engineers, aspirants, enthusiasts and academia** to develop and research new mechatronic systems and components while facing **new issues of  human- machine interface, connectivity and transmission, data security** and many more.🚀
 
 
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+
