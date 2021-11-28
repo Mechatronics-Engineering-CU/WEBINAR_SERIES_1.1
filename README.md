@@ -13,28 +13,4 @@ The focus of this series is **to counter the rumors** across the world that **In
 > **Internet of Things** it self is an outcome of what mechatronics engineer do :metal:
 
 
-## SCHEDULED PLAN
-
-DAY | SESSION | SPEAKER _NAME and AFFILIATION | TIME-SLOT
---- | ------- | ----------------------------- | ---------
-1   |    1   | SPEAKER 1                     | 10:00 AM - 12:00 AM 
---- | ------- | ----------------------------- | ---------
-
-1   | 2 | SPEAKER 2 | 1:00 PM- 3:00 PM |
-
-2   | 1 | SPEAKER 3 | 10:00 AM - 12:00 AM | 
-
-2   | 2 | SPEAKER 4 | 1:00 PM- 3:00 PM |
-
-3   | 1 | SPEAKER53 | 10:00 AM - 12:00 AM | 
-
-3   | 2 | SPEAKER 6 | 1:00 PM- 3:00 PM |
-
-4   | 1 | SPEAKER 7 | 10:00 AM - 12:00 AM | 
-
-4   | 2 | SPEAKER 8 | 1:00 PM- 3:00 PM |
-
-5   | 1 | SPEAKER 9 | 10:00 AM - 12:00 AM | 
-
-5   | 2 | SPEAKER 10| 1:00 PM- 3:00 PM |
 
